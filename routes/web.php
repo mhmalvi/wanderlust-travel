@@ -13,7 +13,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'index');
+Route::view('/', 'index')->name('home');
+Route::view('/about-us', 'pages.about')->name('about');
+Route::view('/services', 'pages.services')->name('service');
+Route::view('/gallary', 'pages.gallary')->name('gallary');
+Route::view('/blogs', 'pages.blogs')->name('blogs');
+Route::view('/contact-us', 'pages.contact')->name('contact');
 
 Route::get('/dashboard', function () {
     return view('dashboard');

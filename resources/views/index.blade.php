@@ -8,32 +8,52 @@
 					<div class="sc_section_content">
 						<div class="sc_content sc_align_center">
 							<div class="columns_wrap sc_columns sc_columns_count_3">
-								<div class="column-1_3">
+								<div class="column-1_4">
 									<figure class="sc_image sc_image_shape_square">
 										<img src="images/227x227.png" alt="" />
 									</figure>
-									<h5 class="sc_title sc_title_style_2">
-									<a href="#">CONSULT WITH AN EXPERT</a>
+									<h5 class="sc_title sc_title_style_2" style="text-transform: uppercase">
+										<a href="#">Flight Services</a>
 									</h5>
-									<div class="sc_section sc_section_style_1">We&#8217;ll match you with an authority on your destination from our team of widely published writers who travel the globe.</div>
+									<div class="sc_section sc_section_style_1">
+										Get your best flight services around the world in just one place. To make your flight more comfortable, 
+										choose Top Trip as your best flight solution partner for international airlines and domestic flights under cost-efficient budget plans.
+									</div>
 								</div>
-								<div class="column-1_3">
+								<div class="column-1_4">
 									<figure class="sc_image  sc_image_shape_square">
 										<img src="images/227x227.png" alt="" />
 									</figure>
-									<h5 class="sc_title sc_title_style_2">
-									<a href="#">GET A CUSTOMIZED PLAN</a>
+									<h5 class="sc_title sc_title_style_2" style="text-transform: uppercase">
+									<a href="#">Hotel Services</a>
 									</h5>
-									<div class="sc_section sc_section_style_1">Our expert will map out your entire trip, with insider recommendations about where to go, what to do, how to get around and where to stay.</div>
+									<div class="sc_section sc_section_style_1">
+										We offer quality hotel services that are safe, reliable, and based on customer expectations. 
+										Make your tour more delightful and get the best hotel experience by exploring the best lodging services with Top trip.
+									</div>
 								</div>
-								<div class="column-1_3">
+								<div class="column-1_4">
 									<figure class="sc_image  sc_image_shape_square">
 										<img src="images/227x227.png" alt="" />
 									</figure>
-									<h5 class="sc_title sc_title_style_2">
-									<a href="#">BOOK YOUR TRIP</a>
+									<h5 class="sc_title sc_title_style_2" style="text-transform: uppercase">
+									<a href="#">Holiday Packages</a>
 									</h5>
-									<div class="sc_section sc_section_style_1">Finally, our in-house specialists will seamlessly help you book the hotels or activities on your itinerary at the best available rates.</div>
+									<div class="sc_section sc_section_style_1">
+										Experience your finest holiday tours with our best travel packages. 
+										We serve exclusive holiday deals and tour services based on the customer's requests. Also, we give tour facilities under conditions.
+									</div>
+								</div>
+								<div class="column-1_4">
+									<figure class="sc_image  sc_image_shape_square">
+										<img src="images/227x227.png" alt="" />
+									</figure>
+									<h5 class="sc_title sc_title_style_2" style="text-transform: uppercase">
+									<a href="#">Visa Support</a>
+									</h5>
+									<div class="sc_section sc_section_style_1">
+										We support tourist Visa, and we help to meet the best deal on worldwide visa supports.
+									</div>
 								</div>
 							</div>
 						</div>
