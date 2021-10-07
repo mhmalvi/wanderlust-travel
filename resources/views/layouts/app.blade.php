@@ -1,36 +1,48 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="format-detection" content="telephone=no">
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
         <meta name="csrf-token" content="{{ csrf_token() }}">
+        <title>{{ config('app.name', 'Toptrip') }}</title>
+        
+        <!--<link rel='stylesheet' href='custom_tools/css/front.customizer.css' type='text/css' media='all' />-->
+        
 
-        <title>{{ config('app.name', 'Laravel') }}</title>
-
-        <!-- Fonts -->
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap">
-
-        <!-- Styles -->
-        <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-
-        <!-- Scripts -->
-        <script src="{{ asset('js/app.js') }}" defer></script>
+        @include('layouts.styles')
     </head>
-    <body class="font-sans antialiased">
-        <div class="min-h-screen bg-gray-100">
-            @include('layouts.navigation')
 
-            <!-- Page Heading -->
-            <header class="bg-white shadow">
-                <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
-                    {{ $header }}
+    <body class="page body_style_fullscreen body_filled article_style_stretch top_panel_opacity_transparent top_panel_over menu_right sidebar_hide">
+        
+        <div class="body_wrap">
+            <div class="page_wrap">
+                <div class="top_panel_fixed_wrap"></div>
+
+                @include('layouts.header')
+
+                @include('layouts.slider')
+
+                <div class="page_content_wrap">
+                    <div class="content">
+                        <article class="post_item post_item_single page">
+                            @yield('content')
+                        </article>
+                    </div>
                 </div>
-            </header>
 
-            <!-- Page Content -->
-            <main>
-                {{ $slot }}
-            </main>
+                @include('layouts.footer')
+
+                @include('layouts.copywrite')
+
+            </div>
         </div>
+
+
+        <a href="#" class="scroll_to_top icon-up" title="Scroll to top"></a>
+
+
+        @include('layouts.scripts')
     </body>
 </html>
