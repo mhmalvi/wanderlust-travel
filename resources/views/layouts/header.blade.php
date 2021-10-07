@@ -1,4 +1,4 @@
-<header class="top_panel_wrap" >
+<header class="top_panel_wrap {{Route::currentRouteName() == 'home' ? '' : 'image_bg_7'}}">
     <div class="menu_main_wrap logo_left with_text">
         <div class="menu_content_wrap clearfix">
             <div class="logo">

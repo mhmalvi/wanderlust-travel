@@ -22,8 +22,6 @@
 
                 @include('layouts.header')
 
-                @include('layouts.slider')
-
                 <div class="page_content_wrap">
                     <div class="content">
                         <article class="post_item post_item_single page">

@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+    @include('layouts.slider')
 	<div class="post_content">
 		<section class="grey_section section_padding_top_30 section_padding_bottom_50">
 			<div class="container">
