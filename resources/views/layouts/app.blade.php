@@ -14,7 +14,25 @@
         @include('layouts.styles')
     </head>
 
-    <body class="page body_style_fullscreen body_filled article_style_stretch top_panel_opacity_transparent top_panel_over menu_right sidebar_hide">
+    @php
+        $class = "";
+
+        switch (Route::currentRouteName()) {
+            case 'home':
+                $class = "page body_style_fullscreen body_filled article_style_stretch top_panel_opacity_transparent top_panel_over menu_right sidebar_hide";
+                break;
+            case 'gallary':
+                $class = "archive body_style_wide body_filled article_style_stretch template_alternative top_panel_opacity_solid top_panel_above menu_right sidebar_hide";
+                break;
+            case 'contact':
+                $class = "page body_style_wide body_filled article_style_stretch top_panel_opacity_solid top_panel_above menu_right sidebar_hide";
+                break;
+            default:
+                $class = "page body_style_fullscreen body_filled article_style_stretch top_panel_opacity_solid top_panel_above menu_right sidebar_hide";
+                break;
+        }
+    @endphp
+    <body class="{{$class}}">
         
         <div class="body_wrap">
             <div class="page_wrap">
@@ -22,13 +40,7 @@
 
                 @include('layouts.header')
 
-                <div class="page_content_wrap">
-                    <div class="content">
-                        <article class="post_item post_item_single page">
-                            @yield('content')
-                        </article>
-                    </div>
-                </div>
+                @yield('content')
 
                 @include('layouts.footer')
 

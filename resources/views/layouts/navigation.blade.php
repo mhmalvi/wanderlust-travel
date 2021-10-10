@@ -3,8 +3,8 @@
         <li class="menu-item {{Route::currentRouteName() == 'home' ? 'current-menu-ancestor' : ''}}">
             <a href="{{route('home')}}">Home</a>
         </li>
-        <li class="menu-item {{Route::currentRouteName() == 'service' ? 'current-menu-ancestor' : ''}}">
-            <a href="{{route('service')}}">Services</a>
+        <li class="menu-item {{Route::currentRouteName() == 'about' ? 'current-menu-ancestor' : ''}}">
+            <a href="{{route('about')}}">About us</a>
         </li>
         <li class="menu-item {{Route::currentRouteName() == 'gallary' ? 'current-menu-ancestor' : ''}}">
             <a href="{{route('gallary')}}">Gallery</a>

@@ -1,3 +1,207 @@
 .logo {
     margin: 15px 0px !important;
 }
+
+.wrapper {
+    width: 100%;
+    height: auto;
+}
+.m-0 {
+    margin: 0 !important;
+}
+.p-0 {
+    padding: 0 !important;
+}
+.service {
+    position: relative;
+}
+.service::before {
+    content: "";
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.3);
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    -o-transition: all 0.35s;
+    transition: all 0.35s;
+}
+.service .service-info-top {
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    width: -webkit-calc(100% - 40px);
+    width: -moz-calc(100% - 40px);
+    width: calc(100% - 40px);
+    left: 20px;
+}
+.service .service-info-top .price-info {
+    font-size: 22px;
+    display: inline-block;
+    width: 49%;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    -o-transition: all 0.35s;
+    transition: all 0.35s;
+    color: #ffffff;
+    -webkit-transform: translateY(40%);
+    -moz-transform: translateY(40%);
+    -ms-transform: translateY(40%);
+    -o-transform: translateY(40%);
+    transform: translateY(40%);
+    opacity: 0;
+}
+.service .service-info-top .price-info span {
+    color: #ffc107;
+    font-size: 11px;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 5px;
+}
+.service .service-info-top .service-info-text {
+    margin-top: 20px;
+    line-height: 1.55;
+    -webkit-transform: translateY(100%);
+    -moz-transform: translateY(100%);
+    -ms-transform: translateY(100%);
+    -o-transform: translateY(100%);
+    transform: translateY(100%);
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    -o-transition: all 0.35s;
+    transition: all 0.35s;
+    color: #ffffff;
+    opacity: 0;
+}
+.service .service-info-btm {
+    position: absolute;
+    z-index: 1;
+    bottom: 15px;
+    left: 20px;
+    width: -webkit-calc(100% - 40px);
+    width: -moz-calc(100% - 40px);
+    width: calc(100% - 40px);
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+}
+.service .service-info-btm .title {
+    color: #ffffff;
+    text-transform: uppercase;
+    margin: 0;
+    display: inline-block;
+}
+.service .service-info-btm .title span {
+    font-size: 12px;
+    display: block;
+    margin-bottom: 5px;
+    color: #ffc107;
+    font-weight: 400;
+}
+.service .service-info-btm .service-btn {
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    right: 0;
+    font-size: 13px;
+    color: #ffc107;
+    border: 1px solid #ffc107;
+    padding: 1px 10px;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    -o-transition: all 0.35s;
+    transition: all 0.35s;
+    text-transform: uppercase;
+    font-weight: 700;
+    -webkit-transform: translateY(20%);
+    -moz-transform: translateY(20%);
+    -ms-transform: translateY(20%);
+    -o-transform: translateY(20%);
+    transform: translateY(20%);
+    opacity: 0;
+}
+
+.service .service-info-btm .service-btn:hover {
+    color: #ffffff;
+    background: #ffc107;
+}
+
+.service:hover .service:before {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.service:hover .service-info-top {
+    opacity: 1;
+}
+
+.service:hover .service-info-top .price-info {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.service:hover .service-info-top p.service-info-text {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.service:hover .service-info-btm {
+    bottom: 20px;
+    -webkit-transition-delay: 0.15s;
+    -moz-transition-delay: 0.15s;
+    -o-transition-delay: 0.15s;
+    transition-delay: 0.15s;
+}
+
+.service:hover .service-info-btm .service-btn {
+    opacity: 1;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+@media (max-width: 1400px) {
+}
+
+@media (max-width: 1200px) {
+}
+
+@media (max-width: 992px) {
+}
+
+@media (max-width: 720px) {
+    .service .service-info-top .price-info,
+    .service .service-info-top .service-info-text,
+    .service .service-info-btm .service-btn {
+        opacity: 1;
+    }
+
+    .service .service-info-top .service-info-text {
+        margin: 0;
+    }
+}
+
+@media (max-width: 560px) {
+    .service .service-info-top .price-info,
+    .service .service-info-top .service-info-text,
+    .service .service-info-btm .service-btn {
+        opacity: 1;
+    }
+
+    .service .service-info-top .service-info-text {
+        margin: 0;
+    }
+}

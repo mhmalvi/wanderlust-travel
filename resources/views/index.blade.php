@@ -62,6 +62,165 @@
 				</div>
 			</div>
 		</section>
+
+		<section>
+			<div class="wrapper">
+				<div class="sc_section">
+					<div class="sc_section_content">
+						<div class="sc_content">
+							<div class="columns_wrap sc_columns sc_columns_count_4 m-0">
+								<div class="column-1_4 p-0">
+									<div class="service">
+										<img src="{{asset('assets/images/services/1.jpg')}}" alt="" srcset="">
+										<div class="service-info-top">
+											<div class="price-info">
+												<span>Start Per Night</span>
+												$110
+											</div>
+											<p class="service-info-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias nulla reprehenderit fugiat tempore nihil voluptatibus asperiores eos dignissimos veniam mollitia?</p>
+										</div>
+										<div class="service-info-btm">
+											<h4 class="title">
+												<span>United arab emirates</span> Dubai
+											</h4>
+											<a href="" class="service-btn">Details</a>
+										</div>
+									</div>
+								</div>
+								<div class="column-1_4 p-0">
+									<div class="service">
+										<img src="{{asset('assets/images/services/2.jpg')}}" alt="" srcset="">
+										<div class="service-info-top">
+											<div class="price-info">
+												<span>Start Per Night</span>
+												$110
+											</div>
+											<p class="service-info-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias nulla reprehenderit fugiat tempore nihil voluptatibus asperiores eos dignissimos veniam mollitia?</p>
+										</div>
+										<div class="service-info-btm">
+											<h4 class="title">
+												<span>United arab emirates</span> Dubai
+											</h4>
+											<a href="" class="service-btn">Details</a>
+										</div>
+									</div>
+								</div>
+								<div class="column-1_4 p-0">
+									<div class="service">
+										<img src="{{asset('assets/images/services/3.jpg')}}" alt="" srcset="">
+										<div class="service-info-top">
+											<div class="price-info">
+												<span>Start Per Night</span>
+												$110
+											</div>
+											<p class="service-info-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias nulla reprehenderit fugiat tempore nihil voluptatibus asperiores eos dignissimos veniam mollitia?</p>
+										</div>
+										<div class="service-info-btm">
+											<h4 class="title">
+												<span>United arab emirates</span> Dubai
+											</h4>
+											<a href="" class="service-btn">Details</a>
+										</div>
+									</div>
+								</div>
+								<div class="column-1_4 p-0">
+									<div class="service">
+										<img src="{{asset('assets/images/services/4.jpg')}}" alt="" srcset="">
+										<div class="service-info-top">
+											<div class="price-info">
+												<span>Start Per Night</span>
+												$110
+											</div>
+											<p class="service-info-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias nulla reprehenderit fugiat tempore nihil voluptatibus asperiores eos dignissimos veniam mollitia?</p>
+										</div>
+										<div class="service-info-btm">
+											<h4 class="title">
+												<span>United arab emirates</span> Dubai
+											</h4>
+											<a href="" class="service-btn">Details</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="columns_wrap sc_columns sc_columns_count_4 m-0">
+								<div class="column-1_4 p-0">
+									<div class="service">
+										<img src="{{asset('assets/images/services/5.jpg')}}" alt="" srcset="">
+										<div class="service-info-top">
+											<div class="price-info">
+												<span>Start Per Night</span>
+												$110
+											</div>
+											<p class="service-info-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias nulla reprehenderit fugiat tempore nihil voluptatibus asperiores eos dignissimos veniam mollitia?</p>
+										</div>
+										<div class="service-info-btm">
+											<h4 class="title">
+												<span>United arab emirates</span> Dubai
+											</h4>
+											<a href="" class="service-btn">Details</a>
+										</div>
+									</div>
+								</div>
+								<div class="column-1_4 p-0">
+									<div class="service">
+										<img src="{{asset('assets/images/services/6.jpg')}}" alt="" srcset="">
+										<div class="service-info-top">
+											<div class="price-info">
+												<span>Start Per Night</span>
+												$110
+											</div>
+											<p class="service-info-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias nulla reprehenderit fugiat tempore nihil voluptatibus asperiores eos dignissimos veniam mollitia?</p>
+										</div>
+										<div class="service-info-btm">
+											<h4 class="title">
+												<span>United arab emirates</span> Dubai
+											</h4>
+											<a href="" class="service-btn">Details</a>
+										</div>
+									</div>
+								</div>
+								<div class="column-1_4 p-0">
+									<div class="service">
+										<img src="{{asset('assets/images/services/7.jpg')}}" alt="" srcset="">
+										<div class="service-info-top">
+											<div class="price-info">
+												<span>Start Per Night</span>
+												$110
+											</div>
+											<p class="service-info-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias nulla reprehenderit fugiat tempore nihil voluptatibus asperiores eos dignissimos veniam mollitia?</p>
+										</div>
+										<div class="service-info-btm">
+											<h4 class="title">
+												<span>United arab emirates</span> Dubai
+											</h4>
+											<a href="" class="service-btn">Details</a>
+										</div>
+									</div>
+								</div>
+								<div class="column-1_4 p-0">
+									<div class="service">
+										<img src="{{asset('assets/images/services/8.jpg')}}" alt="" srcset="">
+										<div class="service-info-top">
+											<div class="price-info">
+												<span>Start Per Night</span>
+												$110
+											</div>
+											<p class="service-info-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias nulla reprehenderit fugiat tempore nihil voluptatibus asperiores eos dignissimos veniam mollitia?</p>
+										</div>
+										<div class="service-info-btm">
+											<h4 class="title">
+												<span>United arab emirates</span> Dubai
+											</h4>
+											<a href="" class="service-btn">Details</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 		
 		<section class="section_padding_50">
 			<div class="container">
