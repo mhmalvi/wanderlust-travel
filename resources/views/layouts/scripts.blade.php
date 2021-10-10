@@ -11,7 +11,7 @@
 <script type='text/javascript' src="{{asset('assets/js/vendor/picker/picker.start.js')}}"></script>
 
 <script type='text/javascript' src="{{asset('assets/js/custom/core.utils.min.js')}}"></script>
-<script type='text/javascript' src="{{asset('assets/js/custom/core.init.min.js')}}"></script>
+<script type='text/javascript' src="{{asset('assets/js/custom/core.init.js')}}"></script>
 <script type='text/javascript' src="{{asset('assets/js/custom/shortcodes.min.js')}}"></script>
 
 <script type='text/javascript' src="{{asset('assets/js/custom/_main.js')}}"></script>

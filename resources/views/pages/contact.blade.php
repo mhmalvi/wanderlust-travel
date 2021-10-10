@@ -22,7 +22,7 @@
 								<div class="">
 									<div class="sc_section">
 										<h2 class="sc_title margin_top_0 margin_bottom_0">GET IN TOUCH</h2>
-										<h5 class="sc_undertitle sc_undertitle_style_3">132 EAST 70TH STREET, NEW YORK, NY 10021</h5>
+										<h5 class="sc_undertitle sc_undertitle_style_3">Level-7, 8/C, F.R.Tower, Panthapath, Dhaka-1207.</h5>
 									</div>
 								</div>
 							</section>
@@ -47,7 +47,8 @@
 															</span>
 															<div class="sc_content content_wrap margin_top_15">
 																<h5 class="sc_undertitle sc_undertitle_style_4">CALL US:</h5>
-																<h5 class="sc_undertitle sc_undertitle_style_4">1.800.123.4567</h5>
+																<h5 class="sc_undertitle sc_undertitle_style_4">+88 01400 445905</h5>
+																<h5 class="sc_undertitle sc_undertitle_style_4">+88 01970 938552</h5>
 															</div>
 														</div>
 														<div class="column-1_3 sc_column_item sc_column_item_2 even sc_align_center">
@@ -55,7 +56,7 @@
 															</span>
 															<div class="sc_content content_wrap margin_top_15">
 																<h5 class="sc_undertitle sc_undertitle_style_4">WEBSITE:</h5>
-																<h5 class="sc_undertitle sc_undertitle_style_4">WWW.YOURSITE.COM</h5>
+																<h5 class="sc_undertitle sc_undertitle_style_4">www.toptrip.global</h5>
 															</div>
 														</div>
 														<div class="column-1_3 sc_column_item sc_column_item_3 odd sc_align_center">
@@ -63,7 +64,7 @@
 															</span>
 															<div class="sc_content content_wrap margin_top_15">
 																<h5 class="sc_undertitle sc_undertitle_style_4">EMAIL US:</h5>
-																<h5 class="sc_undertitle sc_undertitle_style_4">INFO@YOURSITE.COM</h5>
+																<h5 class="sc_undertitle sc_undertitle_style_4">toptripglobal@gmail.com</h5>
 															</div>
 														</div>
 													</div>

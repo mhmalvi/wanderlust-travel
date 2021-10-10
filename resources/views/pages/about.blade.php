@@ -23,7 +23,7 @@
 									<div class="sc_section bg_tint_light">
 										<div class="sc_section_content">
 											<div class="sc_content content_wrap">
-												<h2 class="sc_title margin_top_0 sc_align_center">Why choose Travel Solaris?</h2>
+												<h2 class="sc_title margin_top_0 sc_align_center">Why choose Toptrip?</h2>
 												<div class="columns_wrap sc_columns columns_nofluid margin_top_40 sc_columns_count_2">
 													<div class="column-1_2 cw sc_column_item sc_column_item_1 odd first">
 														<div class="sc_section sc_section_style_3">
@@ -65,7 +65,7 @@
 															<div class="sc_testimonial_item">
 																<div class="sc_testimonial_content">Deals up to 60% off. To the world&#8217;s top destinations. Sound nice? We certainly think so.</div>
 																<div class="sc_testimonial_avatar">
-																	<img alt="team_3.jpg" src="images/200x200.png">
+																	<img alt="team_3.jpg" src={{asset('assets/images/200x200.png')}}>
 																</div>
 																<div class="sc_testimonial_author">
 																	<a href="#">Mike Newton</a>
@@ -77,7 +77,7 @@
 															<div class="sc_testimonial_item">
 																<div class="sc_testimonial_content">Vacationist allows you insider access to deals you simply won&#8217;t find anywhere else.</div>
 																<div class="sc_testimonial_avatar">
-																	<img alt="team_1.jpg" src="images/200x200.png">
+																	<img alt="team_1.jpg" src={{asset('assets/images/200x200.png')}}>
 																</div>
 																<div class="sc_testimonial_author">
 																	<a href="#">Sarah Jefferson</a>
@@ -108,7 +108,7 @@
 															<div class="sc_scroll_slide swiper-slide">
 																<div class="sc_image_wrap  alignleft">
 																	<figure class="sc_image  sc_image_shape_round">
-																		<img src="images/90x90.png" alt="" />
+																		<img src="{{asset('assets/images/weekend_1-90x90.jpg')}}" alt="" />
 																	</figure>
 																	<div class="figcaption">
 																		<span></span>
@@ -117,7 +117,7 @@
 																</div>
 																<div class="sc_image_wrap  alignleft">
 																	<figure class="sc_image  sc_image_shape_round">
-																		<img src="images/90x90.png" alt="" />
+																		<img src="{{asset('assets/images/weekend_2-90x90.jpg')}}" alt="" />
 																	</figure>
 																	<div class="figcaption">
 																		<span></span>
@@ -126,7 +126,7 @@
 																</div>
 																<div class="sc_image_wrap  alignleft">
 																	<figure class="sc_image  sc_image_shape_round">
-																		<img src="images/90x90.png" alt="" />
+																		<img src="{{asset('assets/images/weekend_3-90x90.jpg')}}" alt="" />
 																	</figure>
 																	<div class="figcaption">
 																		<span></span>
@@ -135,7 +135,7 @@
 																</div>
 																<div class="sc_image_wrap  alignleft">
 																	<figure class="sc_image  sc_image_shape_round">
-																		<img src="images/90x90.png" alt="" />
+																		<img src="{{asset('assets/images/weekend_4-90x90.jpg')}}" alt="" />
 																	</figure>
 																	<div class="figcaption">
 																		<span></span>
@@ -144,7 +144,7 @@
 																</div>
 																<div class="sc_image_wrap  alignleft">
 																	<figure class="sc_image  sc_image_shape_round">
-																		<img src="images/90x90.png" alt="" />
+																		<img src="{{asset('assets/images/weekend_5-90x90.jpg')}}" alt="" />
 																	</figure>
 																	<div class="figcaption">
 																		<span></span>
@@ -153,7 +153,7 @@
 																</div>
 																<div class="sc_image_wrap  alignleft">
 																	<figure class="sc_image  sc_image_shape_round">
-																		<img src="images/90x90.png" alt="" />
+																		<img src="{{asset('assets/images/weekend_6-90x90.jpg')}}" alt="" />
 																	</figure>
 																	<div class="figcaption">
 																		<span></span>
@@ -162,7 +162,7 @@
 																</div>
 																<div class="sc_image_wrap  alignleft">
 																	<figure class="sc_image  sc_image_shape_round">
-																		<img src="images/90x90.png" alt="" />
+																		<img src="{{asset('assets/images/weekend_7-90x90.jpg')}}" alt="" />
 																	</figure>
 																	<div class="figcaption">
 																		<span></span>
@@ -171,7 +171,7 @@
 																</div>
 																<div class="sc_image_wrap  alignleft">
 																	<figure class="sc_image  sc_image_shape_round">
-																		<img src="images/90x90.png" alt="" />
+																		<img src="{{asset('assets/images/weekend_8-90x90.jpg')}}" alt="" />
 																	</figure>
 																	<div class="figcaption">
 																		<span></span>
@@ -180,7 +180,7 @@
 																</div>
 																<div class="sc_image_wrap  alignleft">
 																	<figure class="sc_image  sc_image_shape_round">
-																		<img src="images/90x90.png" alt="" />
+																		<img src="{{asset('assets/images/weekend_9-90x90.jpg')}}" alt="" />
 																	</figure>
 																	<div class="figcaption">
 																		<span></span>
@@ -214,7 +214,7 @@
 															<div class="swiper-slide">
 																<div class="sc_testimonial_item">
 																	<div class="sc_testimonial_avatar">
-																		<img alt="227x227.png" src="images/200x200.png">
+																		<img alt="227x227" src={{asset('assets/images/testimonials_1-200x200.webp')}}>
 																	</div>
 																	<div class="sc_testimonial_author">
 																		<a href="#">Everyone can travel</a>
@@ -228,7 +228,7 @@
 															<div class="swiper-slide">
 																<div class="sc_testimonial_item">
 																	<div class="sc_testimonial_avatar">
-																		<img alt="227x227.png" src="images/200x200.png">
+																		<img alt="227x227" src={{asset('assets/images/testimonials_2-200x200.webp')}}>
 																	</div>
 																	<div class="sc_testimonial_author">
 																		<a href="#">LIFE'S TOO SHORT TO STAY IN BED</a>
@@ -242,7 +242,7 @@
 															<div class="swiper-slide">
 																<div class="sc_testimonial_item">
 																	<div class="sc_testimonial_avatar">
-																		<img alt="227x227.png" src="images/200x200.png">
+																		<img alt="227x227" src={{asset('assets/images/testimonials_3-200x200.webp')}}>
 																	</div>
 																	<div class="sc_testimonial_author">
 																		<a href="#">The Best Family Holiday</a>

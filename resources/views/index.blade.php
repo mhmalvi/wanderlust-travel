@@ -99,7 +99,7 @@
 										</div>
 										<div class="service-info-btm">
 											<h4 class="title">
-												<span>United arab emirates</span> Dubai
+												<span>United Kingdom</span> London
 											</h4>
 											<a href="" class="service-btn">Details</a>
 										</div>
@@ -117,7 +117,7 @@
 										</div>
 										<div class="service-info-btm">
 											<h4 class="title">
-												<span>United arab emirates</span> Dubai
+												<span>AUSTRALIA ANS OCEANIA</span> Sydney
 											</h4>
 											<a href="" class="service-btn">Details</a>
 										</div>
@@ -135,7 +135,7 @@
 										</div>
 										<div class="service-info-btm">
 											<h4 class="title">
-												<span>United arab emirates</span> Dubai
+												<span>Brazil</span> Rio de jeneiro
 											</h4>
 											<a href="" class="service-btn">Details</a>
 										</div>
@@ -155,7 +155,7 @@
 										</div>
 										<div class="service-info-btm">
 											<h4 class="title">
-												<span>United arab emirates</span> Dubai
+												<span>Maldives</span> Male
 											</h4>
 											<a href="" class="service-btn">Details</a>
 										</div>
@@ -173,7 +173,7 @@
 										</div>
 										<div class="service-info-btm">
 											<h4 class="title">
-												<span>United arab emirates</span> Dubai
+												<span>Turkey</span> Istanbul
 											</h4>
 											<a href="" class="service-btn">Details</a>
 										</div>
@@ -191,7 +191,7 @@
 										</div>
 										<div class="service-info-btm">
 											<h4 class="title">
-												<span>United arab emirates</span> Dubai
+												<span>Austria</span> Vienna
 											</h4>
 											<a href="" class="service-btn">Details</a>
 										</div>
@@ -209,7 +209,7 @@
 										</div>
 										<div class="service-info-btm">
 											<h4 class="title">
-												<span>United arab emirates</span> Dubai
+												<span>Italy</span> Venice
 											</h4>
 											<a href="" class="service-btn">Details</a>
 										</div>

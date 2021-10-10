@@ -9,9 +9,9 @@
         <li class="menu-item {{Route::currentRouteName() == 'gallary' ? 'current-menu-ancestor' : ''}}">
             <a href="{{route('gallary')}}">Gallery</a>
         </li>
-        <li class="menu-item {{Route::currentRouteName() == 'blogs' ? 'current-menu-ancestor' : ''}}">
+        {{-- <li class="menu-item {{Route::currentRouteName() == 'blogs' ? 'current-menu-ancestor' : ''}}">
             <a href="{{route('blogs')}}">Blogs</a>
-        </li>
+        </li> --}}
         <li class="menu-item {{Route::currentRouteName() == 'contact' ? 'current-menu-ancestor' : ''}}">
             <a href="{{route('contact')}}">Contact</a>
         </li>
