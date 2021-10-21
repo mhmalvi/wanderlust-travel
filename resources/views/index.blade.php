@@ -17,8 +17,7 @@
 										<a href="#">Flight Services</a>
 									</h5>
 									<div class="sc_section sc_section_style_1">
-										Get your best flight services around the world in just one place. To make your flight more comfortable, 
-										choose Top Trip as your best flight solution partner for international airlines and domestic flights under cost-efficient budget plans.
+										We provide the best flight services around the world for international and domestic flights under an efficient budget. 
 									</div>
 								</div>
 								<div class="column-1_4">
@@ -29,8 +28,7 @@
 									<a href="#">Hotel Services</a>
 									</h5>
 									<div class="sc_section sc_section_style_1">
-										We offer quality hotel services that are safe, reliable, and based on customer expectations. 
-										Make your tour more delightful and get the best hotel experience by exploring the best lodging services with Top trip.
+										Get quality hotel facilities for the best experience and more delightful tour by exploring the best lodging services with Top trip.
 									</div>
 								</div>
 								<div class="column-1_4">
@@ -41,8 +39,7 @@
 									<a href="#">Holiday Packages</a>
 									</h5>
 									<div class="sc_section sc_section_style_1">
-										Experience your finest holiday tours with our best travel packages. 
-										We serve exclusive holiday deals and tour services based on the customer's requests. Also, we give tour facilities under conditions.
+										We serve exclusive holiday deals on the customer's demand for the finest tours with our exclusive travel packages.
 									</div>
 								</div>
 								<div class="column-1_4">
@@ -53,7 +50,7 @@
 									<a href="#">Visa Support</a>
 									</h5>
 									<div class="sc_section sc_section_style_1">
-										We support tourist Visa, and we help to meet the best deal on worldwide visa supports.
+										We support tourist Visa and tour facilities under conditions to meet the top deal on worldwide visa supports. 
 									</div>
 								</div>
 							</div>

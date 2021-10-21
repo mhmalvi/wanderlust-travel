@@ -19,7 +19,14 @@
 					<section class="">
 						<div class="">
 							<div class="isotope_filters">
-								<a href="#" data-filter="*" class="isotope_filters_button active">All</a><a href="#" data-filter=".flt_136" class="isotope_filters_button">sea</a><a href="#" data-filter=".flt_138" class="isotope_filters_button">holiday</a><a href="#" data-filter=".flt_32" class="isotope_filters_button">tour</a><a href="#" data-filter=".flt_36" class="isotope_filters_button">travel</a><a href="#" data-filter=".flt_34" class="isotope_filters_button">resort</a><a href="#" data-filter=".flt_137" class="isotope_filters_button">relaxation</a><a href="#" data-filter=".flt_139" class="isotope_filters_button">city</a>
+								<a href="#" data-filter="*" class="isotope_filters_button active">All</a>
+								<a href="#" data-filter=".flt_136" class="isotope_filters_button">sea</a>
+								<a href="#" data-filter=".flt_138" class="isotope_filters_button">holiday</a>
+								<a href="#" data-filter=".flt_32" class="isotope_filters_button">tour</a>
+								<a href="#" data-filter=".flt_36" class="isotope_filters_button">travel</a>
+								<a href="#" data-filter=".flt_34" class="isotope_filters_button">resort</a>
+								<a href="#" data-filter=".flt_137" class="isotope_filters_button">relaxation</a>
+								<a href="#" data-filter=".flt_139" class="isotope_filters_button">city</a>
 							</div>
 							<div class="isotope_wrap portfolio " data-columns="2">
 								<div class="isotope_item isotope_item_portfolio isotope_item_portfolio_2 isotope_column_2 flt_136">
@@ -213,6 +220,132 @@
 														<a href="#">Fontainebleau Miami Beach</a>
 														</h4>
 														<a class="hover" href="{{asset('assets/images/gallary/12.jpg')}}" title="Fontainebleau Miami Beach">
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+								</div>
+								<div class="isotope_item isotope_item_portfolio isotope_item_portfolio_2 isotope_column_2 flt_36">
+									<article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
+										<div class="post_content isotope_item_content">
+											<div class="post_featured img">
+												<img alt="Fontainebleau Miami Beach" src="{{asset('assets/images/gallary/13.jpg')}}">
+												<div class="hover_wrap">
+													<div class="hover_content">
+														<h4 class="post_title">
+														<a href="#">Fontainebleau Miami Beach</a>
+														</h4>
+														<a class="hover" href="{{asset('assets/images/gallary/13.jpg')}}" title="Fontainebleau Miami Beach">
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+								</div>
+								<div class="isotope_item isotope_item_portfolio isotope_item_portfolio_2 isotope_column_2 flt_36">
+									<article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
+										<div class="post_content isotope_item_content">
+											<div class="post_featured img">
+												<img alt="Fontainebleau Miami Beach" src="{{asset('assets/images/gallary/14.jpg')}}">
+												<div class="hover_wrap">
+													<div class="hover_content">
+														<h4 class="post_title">
+														<a href="#">Fontainebleau Miami Beach</a>
+														</h4>
+														<a class="hover" href="{{asset('assets/images/gallary/14.jpg')}}" title="Fontainebleau Miami Beach">
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+								</div>
+								<div class="isotope_item isotope_item_portfolio isotope_item_portfolio_2 isotope_column_2 flt_36">
+									<article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
+										<div class="post_content isotope_item_content">
+											<div class="post_featured img">
+												<img alt="Fontainebleau Miami Beach" src="{{asset('assets/images/gallary/15.jpg')}}">
+												<div class="hover_wrap">
+													<div class="hover_content">
+														<h4 class="post_title">
+														<a href="#">Fontainebleau Miami Beach</a>
+														</h4>
+														<a class="hover" href="{{asset('assets/images/gallary/15.jpg')}}" title="Fontainebleau Miami Beach">
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+								</div>
+								<div class="isotope_item isotope_item_portfolio isotope_item_portfolio_2 isotope_column_2 flt_36">
+									<article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
+										<div class="post_content isotope_item_content">
+											<div class="post_featured img">
+												<img alt="Fontainebleau Miami Beach" src="{{asset('assets/images/gallary/16.jpg')}}">
+												<div class="hover_wrap">
+													<div class="hover_content">
+														<h4 class="post_title">
+														<a href="#">Fontainebleau Miami Beach</a>
+														</h4>
+														<a class="hover" href="{{asset('assets/images/gallary/16.jpg')}}" title="Fontainebleau Miami Beach">
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+								</div>
+								<div class="isotope_item isotope_item_portfolio isotope_item_portfolio_2 isotope_column_2 flt_36">
+									<article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
+										<div class="post_content isotope_item_content">
+											<div class="post_featured img">
+												<img alt="Fontainebleau Miami Beach" src="{{asset('assets/images/gallary/17.png')}}">
+												<div class="hover_wrap">
+													<div class="hover_content">
+														<h4 class="post_title">
+														<a href="#">Fontainebleau Miami Beach</a>
+														</h4>
+														<a class="hover" href="{{asset('assets/images/gallary/17.png')}}" title="Fontainebleau Miami Beach">
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+								</div>
+								<div class="isotope_item isotope_item_portfolio isotope_item_portfolio_2 isotope_column_2 flt_36">
+									<article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
+										<div class="post_content isotope_item_content">
+											<div class="post_featured img">
+												<img alt="Fontainebleau Miami Beach" src="{{asset('assets/images/gallary/18.jpg')}}">
+												<div class="hover_wrap">
+													<div class="hover_content">
+														<h4 class="post_title">
+														<a href="#">Fontainebleau Miami Beach</a>
+														</h4>
+														<a class="hover" href="{{asset('assets/images/gallary/18.jpg')}}" title="Fontainebleau Miami Beach">
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</article>
+								</div>
+								<div class="isotope_item isotope_item_portfolio isotope_item_portfolio_2 isotope_column_2 flt_36">
+									<article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
+										<div class="post_content isotope_item_content">
+											<div class="post_featured img">
+												<img alt="Fontainebleau Miami Beach" src="{{asset('assets/images/gallary/19.jpg')}}">
+												<div class="hover_wrap">
+													<div class="hover_content">
+														<h4 class="post_title">
+														<a href="#">Fontainebleau Miami Beach</a>
+														</h4>
+														<a class="hover" href="{{asset('assets/images/gallary/19.jpg')}}" title="Fontainebleau Miami Beach">
 														</a>
 													</div>
 												</div>
