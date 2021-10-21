@@ -4995,6 +4995,10 @@ table.picker__table tbody:last-child tr:last-child td {
 	background-image: url(../images/bg_oblique_left_normal.png), url(../images/home_3.jpg) ;
 }
 
+.image_bg_air {
+	background-image: url(../images/bg_oblique_right_normal.png), url(../images/air-ticket.jpg) ;
+}
+
 .image_bg_7 {
 	background: url(../images/menu_bg.jpg) no-repeat center top #63cac5;
 }

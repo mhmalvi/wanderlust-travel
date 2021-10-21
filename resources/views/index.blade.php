@@ -333,6 +333,30 @@
 			</div>
 		</section>
 
+		<section class="image_bg image_bg_air sc_oblique oblique_right">
+			<div class="container">
+				<div class="sc_section">
+					<div class="content_wrap">
+						<div class="sc_oblique_wrap">
+							<h3 class="sc_title" style="margin-bottom: 35px;">Find the <br> perfect flight</h3>
+
+							<div>
+								<p>
+									Book with confidence with Price Forecast
+								</p>
+								<p>
+									Search hundreds of other travel sites at once
+								</p>
+								<p>
+									Set a Price Alert and never miss a deal
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
 		<section class="grey_section section_padding_50">
 			<div class="container">
 				<div class="sc_section aligncenter">
