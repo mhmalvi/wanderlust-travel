@@ -1,3 +1,4 @@
+<a href="#" class="menu_main_responsive_button icon-menu-1"></a>
 <nav role="navigation" class="menu_main_nav_area">
     <ul id="menu_main" class="menu_main_nav">
         <li class="menu-item {{Route::currentRouteName() == 'home' ? 'current-menu-ancestor' : ''}}">

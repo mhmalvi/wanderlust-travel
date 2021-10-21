@@ -5,13 +5,13 @@
 	<div class="post_content">
 		<section class="grey_section section_padding_top_30 section_padding_bottom_50">
 			<div class="container">
-				<div class="sc_section">
+				<div class="sc_section" style="margin: 50px auto;">
 					<div class="sc_section_content">
 						<div class="sc_content sc_align_center">
 							<div class="columns_wrap sc_columns sc_columns_count_3">
 								<div class="column-1_4">
 									<figure class="sc_image sc_image_shape_square">
-										<img src="images/227x227.png" alt="" />
+										<img src="{{asset('assets/images/icons/paper-plane.png')}}" alt="" />
 									</figure>
 									<h5 class="sc_title sc_title_style_2" style="text-transform: uppercase">
 										<a href="#">Flight Services</a>
@@ -23,7 +23,7 @@
 								</div>
 								<div class="column-1_4">
 									<figure class="sc_image  sc_image_shape_square">
-										<img src="images/227x227.png" alt="" />
+										<img src="{{asset('assets/images/icons/review.png')}}" alt="" />
 									</figure>
 									<h5 class="sc_title sc_title_style_2" style="text-transform: uppercase">
 									<a href="#">Hotel Services</a>
@@ -35,7 +35,7 @@
 								</div>
 								<div class="column-1_4">
 									<figure class="sc_image  sc_image_shape_square">
-										<img src="images/227x227.png" alt="" />
+										<img src="{{asset('assets/images/icons/holiday.png')}}" alt="" />
 									</figure>
 									<h5 class="sc_title sc_title_style_2" style="text-transform: uppercase">
 									<a href="#">Holiday Packages</a>
@@ -47,7 +47,7 @@
 								</div>
 								<div class="column-1_4">
 									<figure class="sc_image  sc_image_shape_square">
-										<img src="images/227x227.png" alt="" />
+										<img src="{{asset('assets/images/icons/passport.png')}}" alt="" />
 									</figure>
 									<h5 class="sc_title sc_title_style_2" style="text-transform: uppercase">
 									<a href="#">Visa Support</a>
@@ -290,6 +290,43 @@
 								6 days 17 hours left!
 							</div>
 							<a href="#" class="sc_button sc_button_square sc_button_style_filled sc_button_bg_custom sc_button_size_large alignleft">visit sale</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="section_padding_50">
+			<div class="container">
+				<div class="sc_section" style="margin: 50px auto;">
+					<div class="sc_content">
+						<h2 class="sc_title sc_title_style_1 sc_title_iconed sc_align_center">
+							Recent Posts
+						</h2>
+
+						<div class="margin_bottom_50"></div>
+
+						<div class="woocommerce columns-3">
+							<ul class="products">
+								<li class="first product">
+									<a href="#">
+										<img src="{{asset('assets/images/564x370.png')}}" class="attachment-shop_catalog" alt="Calm Bled lake at sunrise">
+										<h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus, architecto.</h4>
+									</a>
+								</li>
+								<li class="product">
+									<a href="#">
+										<img src="{{asset('assets/images/564x370.png')}}" class="attachment-shop_catalog" alt="Sunset over Manhattan from Top of the Rock">
+										<h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus, architecto.</h4>
+									</a>
+								</li>
+								<li class="last product">
+									<a href="#">
+										<img src="{{asset('assets/images/564x370.png')}}" class="attachment-shop_catalog" alt="bigstock-gold-temple-japan-44883001">
+										<h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus, architecto.</h4>
+									</a>
+								</li>
+							</ul>
 						</div>
 					</div>
 				</div>

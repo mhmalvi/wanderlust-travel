@@ -1,10 +1,6 @@
 <div class="copyright_wrap copyright_wrap_style_1">
     <div class="content_wrap">
         <div class="sc_section">
-            <figure class="sc_image  sc_image_shape_square">
-                <img src="{{asset('assets/logo_footer.png')}}" alt="logo" style="max-width: 100px;">
-            </figure>
-            <br>
             <div class="sc_socials sc_socials_size_tiny">
                 <div class="sc_socials_item">
                     <a href="" target="_blank" class="social_icons social_twitter icons">
