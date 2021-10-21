@@ -34,7 +34,7 @@
     @endphp
     <body class="{{$class}}">
         
-        <div class="body_wrap">
+        <div class="body_wrap" id="app">
             <div class="page_wrap">
                 <div class="top_panel_fixed_wrap"></div>
 
@@ -53,6 +53,7 @@
         <a href="#" class="scroll_to_top icon-up" title="Scroll to top"></a>
 
 
+        <script src="{{ asset('js/app.js') }}"></script>
         @include('layouts.scripts')
     </body>
 </html>

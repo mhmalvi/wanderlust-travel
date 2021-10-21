@@ -1,3 +1,12 @@
-require('./bootstrap');
+require("./bootstrap");
+import { createApp } from "vue";
 
-require('alpinejs');
+import BookingForm from "./components/BookingForm.vue";
+
+const app = createApp({});
+
+app.component("booking-form", BookingForm);
+
+app.mount("#app");
+
+require("alpinejs");
