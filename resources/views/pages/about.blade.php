@@ -28,15 +28,18 @@
 													<div class="column-1_2 cw sc_column_item sc_column_item_1 odd first">
 														<div class="sc_section sc_section_style_3">
 															<span class="sc_icon sc_icon_style_1 icon-globe32 alignleft accent_color"></span>
-															Plan your perfect vacation with our travel agency. Choose among hundreds of all-inclusive offers!<br />
+															Make your vacation more comfortable with our discount prices within your budget among hundreds of exclusive offers. 
+															<br />
 														</div>
 														<div class="sc_section sc_section_style_3">
 															<span class="sc_icon sc_icon_style_1 icon-pencil124 alignleft accent_color"></span>
-															We work hard to secure the best hotel rates in the most popular destinations. Search and book adventure tours now!<br />
+															No need to concern about flight, hotel booking, and other tour facilities as we provide a complete travel package within your range.
+															<br />
 														</div>
 														<div class="sc_section sc_section_style_3">
 															<span class="sc_icon sc_icon_style_1 icon-favourite24 alignleft accent_color"></span>
-															Book international vacation packages with us and create memories that will last a lifetime! We will help you create your own travel history!<br />
+															Save your time and money with our trusted and committed services for a quick and comfortable tour in the most popular destinations.
+															<br />
 														</div>
 													</div>
 													<div class="column-1_2 cw sc_column_item sc_column_item_2 even">
@@ -217,39 +220,12 @@
 																		<img alt="227x227" src={{asset('assets/images/testimonials_1-200x200.webp')}}>
 																	</div>
 																	<div class="sc_testimonial_author">
-																		<a href="#">Everyone can travel</a>
+																		<a href="#">Nishat Mahmud</a>
 																	</div>
 																	<div class="sc_testimonial_content">
-																		<p>Whether you&#8217;re a globetrotter, couch surfer or stuck in a 9 to 5 job, with Let&#8217;s Travel Somewhere<br />
-																		you&#8217;ll visit the greatest places on our planet.</p>
-																	</div>
-																</div>
-															</div>
-															<div class="swiper-slide">
-																<div class="sc_testimonial_item">
-																	<div class="sc_testimonial_avatar">
-																		<img alt="227x227" src={{asset('assets/images/testimonials_2-200x200.webp')}}>
-																	</div>
-																	<div class="sc_testimonial_author">
-																		<a href="#">LIFE'S TOO SHORT TO STAY IN BED</a>
-																	</div>
-																	<div class="sc_testimonial_content">
-																		<p>We only have one life, one opportunity and one goal: To make the best out of it.<br />
-																		So tell me, are you making the best out of it?</p>
-																	</div>
-																</div>
-															</div>
-															<div class="swiper-slide">
-																<div class="sc_testimonial_item">
-																	<div class="sc_testimonial_avatar">
-																		<img alt="227x227" src={{asset('assets/images/testimonials_3-200x200.webp')}}>
-																	</div>
-																	<div class="sc_testimonial_author">
-																		<a href="#">The Best Family Holiday</a>
-																	</div>
-																	<div class="sc_testimonial_content">
-																		<p>This was one of the most amazing family holidays we have ever had. The perfect mix of<br />
-																		relaxing holiday time and experiencing a different country and culture with our family.</p>
+																		<p>
+																			Best travel guide and agency so far, I got to make my destination to visit with a comfort ride.
+																		</p>
 																	</div>
 																</div>
 															</div>
