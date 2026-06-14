@@ -1,6 +1,8 @@
 <!-- repo-card -->
 ![wanderlust-travel](docs/assets/social-card.png)
 
+![wanderlust-travel — architecture](docs/assets/architecture.png)
+
 # Wanderlust Travel
 
 A travel and tourism website built with Laravel, featuring trip information, service listings, and a gallery — designed for travel agencies and tour operators.
